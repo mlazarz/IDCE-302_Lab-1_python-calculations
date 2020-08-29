@@ -14,7 +14,7 @@ In [Kenya](https://www.reuters.com/article/us-health-coronavirus-kenya-water/tap
 
 ### *Major Errors and Resolution*
 
-While building this code, I came across a syntax error multiple times.  This error occurred every time I attempted to execute my code with a print statement.  The error stated a **TypeError in <>() module** and that the **'float' object is not callable**.  In debugging this code, I commented out my entire code except for one variable assignment and the print statement for this variable.  I recieved the same TypeError in the () module.  I further simplified my code as shown in the following image and recieved the same error.
+While building this code, I came across a syntax error multiple times.  This error occurred every time I attempted to execute my code with a print statement.  The error stated a **TypeError in < module > ()** and that the **'float' object is not callable**.  In debugging this code, I commented out my entire code except for one variable assignment and the print statement for this variable.  I recieved the same TypeError in the () module.  I further simplified my code as shown in the following image and recieved the same error.
 
 ![errorimage](pythonerrorLab1.jpg)
 
