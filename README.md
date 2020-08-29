@@ -10,6 +10,8 @@ If systems are put in place, stormwater runoff can be **captured and recycled**.
 
 ### *Case and Code*
 
+In [Kenya](https://www.reuters.com/article/us-health-coronavirus-kenya-water/taps-run-dry-in-kenyas-capital-as-coronavirus-spreads-idUSKBN22Q2JN)
+
 ### *Major Errors and Resolution*
 
 ###### Author:  Mitchell Lazarz
