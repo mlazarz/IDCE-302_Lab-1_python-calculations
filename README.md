@@ -2,12 +2,19 @@
 
 ### *The Issue*
 Impervious surfaces like asphault and concrete increase stormwater runoff.  The creation of these non-porious surfaces by paving over agricultural land pose many issues. These problems include:
-   ##### 1.  *Greater susceptibility to landslides and flooding which cause property damage and erosion*
-   ##### 2.  *Decreased ability to replenish groundwater supply*
-   ##### 3.  *Hastens pollution of waterways*
-If systems are put in place, stormwater runoff can be captured and recycled.  This decreases the risks listed above and presents an opprotunity for the public to access this water.  Knowing the amount of water that comes off of a plot of developed land, given daily rainfall, could be valuable information for risk assessment as well as the development of a stormwater catchment system to recycle the water.  In areas of the world where access to water is scarce and development of impervious surfaces is occurring, the code within the repository may be useful.
+ - #### *Greater susceptibility to landslides and flooding which cause property damage and erosion*
+ - #### *Decreased ability to replenish groundwater supply*
+ - #### *Hastens pollution of waterways*
+ 
+If systems are put in place, stormwater runoff can be **captured and recycled**.  This decreases the risks listed above and presents an opportunity for the public to access this water.  Knowing the amount of water that comes off of a plot of developed land, given daily rainfall, could be valuable information for risk assessment as well as the development of a stormwater catchment system to recycle the water.  In areas of the world where access to water is scarce and development of impervious surfaces is occurring, the code within the repository may be useful.
 
+### *Case and Code*
 
+### *Major Errors and Resolution*
+
+###### Author:  Mitchell Lazarz
+###### Creation Date: 29 August 2020
+###### Python Version Used:  Python 3---Google Colab---Jupytor Notebooks
    
 To complete this lab you will need to add a script that contains your code (be sure it is well commented!) and edit this README file. You can save your Colab directly as an `.ipynb` file or, if you're using a different code editor, save it as a `.py` file.
 
