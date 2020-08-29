@@ -6,7 +6,7 @@ Impervious surfaces like asphault and concrete increase stormwater runoff.  The 
  - ###### *Decreased ability to replenish groundwater supply*
  - ###### *Hastens pollution of waterways*
  
-If systems are put in place, stormwater runoff can be **captured and recycled**.  This decreases the risks listed above and presents an opportunity for the public to access this water.  Knowing the amount of water that comes off of a plot of developed land, given daily rainfall, could be valuable information for risk assessment as well as the development of a stormwater catchment system to recycle the water.  The precise number of gallons of water during a storm is important information for the design of the catchment system.  In areas of the world where access to water is scarce and development of impervious surfaces is occurring, the code within the repository may be useful.
+If systems are put in place, stormwater runoff can be **captured and recycled**.  This decreases the risks listed above and presents an opportunity for the public to access this water.  Knowing the amount of water that comes off of a plot of developed land, given a rainfall amount, could be valuable information for risk assessment as well as the development of a stormwater catchment system to recycle the water.  The precise number of gallons of water during a storm is important information for the design of the catchment system.  In areas of the world where access to water is scarce and development of impervious surfaces is occurring, the code within the repository may be useful.
 
 ### *Case and Code*
 
