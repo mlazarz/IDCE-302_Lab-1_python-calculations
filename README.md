@@ -12,12 +12,12 @@ If systems are put in place, stormwater runoff can be **captured and recycled**.
 
 Water issues associated with the creation of impervious surfaces is abundant in Kenya.  For example, in the capital city of [Nairobi](https://www.reuters.com/article/us-health-coronavirus-kenya-water/taps-run-dry-in-kenyas-capital-as-coronavirus-spreads-idUSKBN22Q2JN), landslide damage caused by storm water exacerbated water shortages during the global Covid pandemic.  This code focuses on a 1000 square foot developed plot in Kenya and calculates the number of gallons of runoff that is a result of 1 inch of rainfall.  The following are the steps included in this code:
 
-1.  **Assign values** to the **plot width, plot length, and rainfall amount variables**.  Plot width is 20 feet, plot length is 50 feet, and rainfall amount is 1 inch.
-2.  The plot width and plot length are **converted to inches** by multiplying by *12.0*.
-3.  The **area of the plot** in square inches in calculated by multiplying plot width by plot length.
-4.  The **total amount of runoff** is calculated in cubic inches by multiplying plot area in inches by the rainfall in inches.
-5.  The total amount of runoff is converted from **cubic inches to gallons** by dividing by *231* and then rounded to hundreth decimal place.
-6.  The **outputs are printed** displaying the plot width, plot length, rainfall amount, and total gallons of runoff.
+######1.  **Assign values** to the **plot width, plot length, and rainfall amount variables**.  Plot width is 20 feet, plot length is 50 feet, and rainfall amount is 1 inch.
+######2.  The plot width and plot length are **converted to inches** by multiplying by *12.0*.
+######3.  The **area of the plot** in square inches in calculated by multiplying plot width by plot length.
+######4.  The **total amount of runoff** is calculated in cubic inches by multiplying plot area in inches by the rainfall in inches.
+######5.  The total amount of runoff is converted from **cubic inches to gallons** by dividing by *231* and then rounded to hundreth decimal place.
+######6.  The **outputs are printed** displaying the plot width, plot length, rainfall amount, and total gallons of runoff.
 
 ### *Major Errors and Resolution*
 
